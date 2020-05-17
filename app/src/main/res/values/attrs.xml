@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="FieldView">
+        <attr name="cellSize" format="dimension" />
+        <attr name="cellColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="MyTextView">
+        <attr name="android:text"/>
+        <attr name="android:textSize"/>
+    </declare-styleable>
+</resources>
